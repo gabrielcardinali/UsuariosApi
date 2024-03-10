@@ -9,12 +9,14 @@ public class UsuarioServices
   private readonly IMapper _mapper;
   private readonly UserManager<Usuario> _userManager;
   private readonly SignInManager<Usuario> _signInManager;
+  private readonly TokenService _tokenService;
 
-  public UsuarioServices(IMapper mapper, UserManager<Usuario> userManager, SignInManager<Usuario> signInManager)
+  public UsuarioServices(IMapper mapper, UserManager<Usuario> userManager, SignInManager<Usuario> signInManager, TokenService tokenService)
   {
     _mapper = mapper;
     _userManager = userManager;
     _signInManager = signInManager;
+    _tokenService = tokenService;
   }
 
   public async Task Cadastra(CreateUsuarioDto dto)
@@ -29,7 +31,7 @@ public class UsuarioServices
     }
   }
 
-  public async Task Login(LoginUsuarioDto dto)
+  public async Task<string> Login(LoginUsuarioDto dto)
   {
     var result = await _signInManager.PasswordSignInAsync(dto.UserName, dto.Password, false, false);
 
@@ -37,5 +39,14 @@ public class UsuarioServices
     {
       throw new ApplicationException("Usuário não atenticado");
     }
+
+    var usuario = _signInManager
+      .UserManager
+      .Users
+      .FirstOrDefault(user => user.NormalizedUserName == dto.UserName.ToUpper());
+
+    var token = _tokenService.GenerateToken(usuario);
+
+    return token;
   }
 }

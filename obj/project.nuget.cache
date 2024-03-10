@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LL2uG4BU0nTGv8iZKNYucb4O2dVFJ16wr16/SakrkgXqbW/m0dUloeWhdWYLs15eMd0IWrFlqF6nFlWs4bQfgg==",
+  "dgSpecHash": "eQ2+jXlTHEM8Uvd9Yt90e/pKL5QeUC0JXc3iFRGfTyUNZLY30qZdeHWdPdXcXrGHdTbe9Ekv1M23N9jJ13xT2g==",
   "success": true,
   "projectFilePath": "/home/gg_cardinali/alura/usuariosApi/UsuariosApi/UsuariosApi.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,10 @@
     "/home/gg_cardinali/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "/home/gg_cardinali/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
     "/home/gg_cardinali/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/gg_cardinali/.nuget/packages/microsoft.identitymodel.abstractions/7.4.0/microsoft.identitymodel.abstractions.7.4.0.nupkg.sha512",
+    "/home/gg_cardinali/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.4.0/microsoft.identitymodel.jsonwebtokens.7.4.0.nupkg.sha512",
+    "/home/gg_cardinali/.nuget/packages/microsoft.identitymodel.logging/7.4.0/microsoft.identitymodel.logging.7.4.0.nupkg.sha512",
+    "/home/gg_cardinali/.nuget/packages/microsoft.identitymodel.tokens/7.4.0/microsoft.identitymodel.tokens.7.4.0.nupkg.sha512",
     "/home/gg_cardinali/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/home/gg_cardinali/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
     "/home/gg_cardinali/.nuget/packages/mysqlconnector/2.3.5/mysqlconnector.2.3.5.nupkg.sha512",
@@ -53,6 +57,7 @@
     "/home/gg_cardinali/.nuget/packages/system.composition.hosting/6.0.0/system.composition.hosting.6.0.0.nupkg.sha512",
     "/home/gg_cardinali/.nuget/packages/system.composition.runtime/6.0.0/system.composition.runtime.6.0.0.nupkg.sha512",
     "/home/gg_cardinali/.nuget/packages/system.composition.typedparts/6.0.0/system.composition.typedparts.6.0.0.nupkg.sha512",
+    "/home/gg_cardinali/.nuget/packages/system.identitymodel.tokens.jwt/7.4.0/system.identitymodel.tokens.jwt.7.4.0.nupkg.sha512",
     "/home/gg_cardinali/.nuget/packages/system.io.pipelines/6.0.3/system.io.pipelines.6.0.3.nupkg.sha512",
     "/home/gg_cardinali/.nuget/packages/system.reflection.metadata/6.0.1/system.reflection.metadata.6.0.1.nupkg.sha512",
     "/home/gg_cardinali/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",

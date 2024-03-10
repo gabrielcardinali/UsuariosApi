@@ -112,3 +112,8 @@
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/obj/Debug/net8.0/UsuariosApi.pdb
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/obj/Debug/net8.0/UsuariosApi.genruntimeconfig.cache
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/obj/Debug/net8.0/ref/UsuariosApi.dll
+/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
