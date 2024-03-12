@@ -4,14 +4,14 @@ using Microsoft.AspNetCore.Identity;
 
 namespace UsuariosApi;
 
-public class UsuarioServices
+public class UsuarioService
 {
   private readonly IMapper _mapper;
   private readonly UserManager<Usuario> _userManager;
   private readonly SignInManager<Usuario> _signInManager;
   private readonly TokenService _tokenService;
 
-  public UsuarioServices(IMapper mapper, UserManager<Usuario> userManager, SignInManager<Usuario> signInManager, TokenService tokenService)
+  public UsuarioService(IMapper mapper, UserManager<Usuario> userManager, SignInManager<Usuario> signInManager, TokenService tokenService)
   {
     _mapper = mapper;
     _userManager = userManager;

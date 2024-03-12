@@ -8,6 +8,7 @@
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/AutoMapper.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Humanizer.dll
+/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -25,6 +26,12 @@
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Mono.TextTemplating.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/MySqlConnector.dll
@@ -38,6 +45,7 @@
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/System.Composition.Hosting.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/System.Composition.Runtime.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
@@ -112,8 +120,3 @@
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/obj/Debug/net8.0/UsuariosApi.pdb
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/obj/Debug/net8.0/UsuariosApi.genruntimeconfig.cache
 /home/gg_cardinali/alura/usuariosApi/UsuariosApi/obj/Debug/net8.0/ref/UsuariosApi.dll
-/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
-/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
-/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
-/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
-/home/gg_cardinali/alura/usuariosApi/UsuariosApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll

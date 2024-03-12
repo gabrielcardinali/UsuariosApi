@@ -6,9 +6,9 @@ namespace UsuariosApi;
 [Route("[controller]")]
 public class UsuarioController : ControllerBase
 {
-  private readonly UsuarioServices _usuarioService;
+  private readonly UsuarioService _usuarioService;
 
-  public UsuarioController(UsuarioServices usuarioService)
+  public UsuarioController(UsuarioService usuarioService)
   {
     _usuarioService = usuarioService;
   }
